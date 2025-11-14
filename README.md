@@ -5,10 +5,10 @@ This document outlines information about bikeshare project.
 This project was created on November 14, 2025 for _Udacity Project_ submission requirement.
 
 ### Project Title
-Replace the Project Title
+Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+This project investigates bike usage data for three different cities in US: `New York`, `Washington`, and `Chicago`.
 
 ### Files used
 Include the files used
