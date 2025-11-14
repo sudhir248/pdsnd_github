@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
+              'new_york': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
@@ -19,7 +19,7 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, ... , june). HINT : Use a while loop to handle invalid inputs!
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
