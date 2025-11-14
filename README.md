@@ -11,7 +11,11 @@ Bikeshare project
 This project investigates bike usage data for three different cities in US: `New York`, `Washington`, and `Chicago`.
 
 ### Files used
-Include the files used
+There are three `.csv` files, _one file for each city_. 
+
+* new_york.csv
+* washington.csv
+* chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
